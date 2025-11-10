@@ -1,0 +1,37 @@
+<section id="ve-toi" class="about-tua">
+        <div class="profile-container">
+            
+            <div class="profile-details">
+                <span class="greeting">XIN CHÀO! TÔI LÀ</span>
+                <h2>Tô Hoàng Anh Tú</h2>
+                <h3 class="tagline">Kiến Tạo Giải Pháp Số Với Đam Mê Thiết Kế Website</h3>
+                
+                <p class="intro-paragraph">
+                    Tôi là một người có niềm đam mê sâu sắc với việc biến ý tưởng thành những trang web đẹp, thân thiện với người dùng và mang lại hiệu quả kinh doanh thực tế. 
+                </p>
+
+                <div class="focus-points">
+                    <div class="point-item">
+                        <h4>🎨 Sáng Tạo & Thẩm Mỹ</h4>
+                        <p>Tối ưu giao diện (UI/UX) để mang lại trải nghiệm tốt nhất cho khách hàng của bạn.</p>
+                    </div>
+                    <div class="point-item">
+                        <h4>⚙️ Tư Duy Kỹ Thuật</h4>
+                        <p>Áp dụng các tiêu chuẩn code sạch, chuẩn SEO và tối ưu tốc độ tải trang.</p>
+                    </div>
+                </div>
+
+                <p class="call-to-action">
+                    Với tư duy logic, tôi sẵn sàng phân tích nhu cầu của bạn để xây dựng một website không chỉ đẹp mà còn là công cụ kinh doanh mạnh mẽ.
+                </p>
+
+                <a href="#portfolio" class="cta-primary">Xem Dự Án Của Tôi</a>
+                <a href="#lienhe" class="cta-secondary">Liên Hệ Tư Vấn</a>
+            </div>
+
+            <div class="profile-avatar">
+                
+            </div>
+
+        </div>
+    </section>

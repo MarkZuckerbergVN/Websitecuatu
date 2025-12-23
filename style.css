@@ -1,0 +1,17 @@
+.day {
+    display: flex;             
+    background-color: #1E90FF;
+    padding: 10px;            
+}
+.day > div {
+    background-color: #f1f1f1; 
+    margin: 10px;              
+    padding: 20px;             
+    font-size: 30px;           
+    flex: 1;                   
+    text-align: center;      
+    font-family: Arial, sans-serif;
+}
+p {
+    font-family: Arial, sans-serif;
+    margin-top: 20px;

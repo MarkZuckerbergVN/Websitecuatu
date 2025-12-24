@@ -6,13 +6,9 @@ body {
   font-family: "Times New Roman", Times, serif;
   margin: 0;
 }
-
-/* Hide header to match the reference image */
 header {
   display: none; 
 }
-
-/* Top Navigation */
 .topnav {
   list-style-type: none;
   margin: 0;
@@ -38,7 +34,6 @@ header {
   color: black;
 }
 
-/* Flex Layout */
 .flex-container {
   display: flex;
   flex-wrap: wrap;
@@ -48,22 +43,18 @@ header {
   padding: 20px;
 }
 
-/* Left Column */
 .flex-container > div:first-child {
   flex: 25%;
 }
 
-/* Main Content */
 .flex-container > div:nth-child(2) {
   flex: 50%;
 }
 
-/* Right Column */
 .flex-container > div:last-child {
   flex: 25%;
 }
 
-/* Responsive Layout */
 @media screen and (max-width: 600px) {
   .flex-container {
     flex-direction: column;
